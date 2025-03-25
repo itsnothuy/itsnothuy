@@ -4,7 +4,7 @@
 <hr>
 
 # 💫 About Me:
- CS and Math majors at DePauw University<br>🌍 I'm based in New York City, NY, USA<br>🤝 I'm open to collaborating on intersting projects<br>
+ CS and Math majors at DePauw University<br>🌍 I'm based in Indiana, USA<br>🤝 I'm open to collaborating on intersting projects<br>
 
 
 ## 🌐 Socials:
