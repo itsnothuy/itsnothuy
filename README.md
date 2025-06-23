@@ -5,6 +5,12 @@
 
 # 💫 About Me:
  CS and Math majors at DePauw University<br>🌍 I'm based in Indiana, USA<br>🤝 I'm open to collaborating on intersting projects<br>
+# What I have done recently:
+- GeminiForge:
+- Interview Prep:
+- Proof of Delivery Quality Platform:
+- Kontask:
+
 
 
 ## 🌐 Socials:
