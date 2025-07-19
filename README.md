@@ -12,6 +12,17 @@
 - Kontask:
 - MusicFinder:
 
+<div align="center">
+
+### From Idea to Production in 5 Steps
+
+![Step 1](./images/stage1.png) | ![Step 2](./images/stage2.png) | ![Step 3](./images/stage3.png)
+:---:|:---:|:---:
+**Requirements Analysis** | **Architecture Design** | **Code Generation**
+
+![Step 4](./images/stage4.png) | ![Step 5](./images/stage5.png)
+:---:|:---:
+**Testing & Review** | **Deployment Setup**
 
 
 ## 🌐 Socials:
