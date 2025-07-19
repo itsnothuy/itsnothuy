@@ -16,7 +16,7 @@
 
 ### From Idea to Production in 5 Steps
 
-![Step 1](./images/stage1.png) | ![Step 2](./images/stage2.png) | ![Step 3](./images/stage3.png)
+![Step 1](./logo.png) | ![Step 2](./images/stage2.png) | ![Step 3](./images/stage3.png)
 :---:|:---:|:---:
 **Requirements Analysis** | **Architecture Design** | **Code Generation**
 
