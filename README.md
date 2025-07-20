@@ -21,7 +21,7 @@
 :---:|:---:|:---:
 **GeminiForge** | **POD microservice** | **LLM-based InterviewPrep**
 
-![Step 4](./Kontask.png) | html\n<img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" width="600"/>\n
+![Step 4](./Kontask.png) | <img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" width="450"/>
 :---:|:---:
 **Kontask** | **MusicFinder**
 
