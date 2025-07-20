@@ -15,6 +15,7 @@
 <div align="center">
 
 ### From Idea to Production in 5 Steps
+![St![MusicFinder](https://github.com/user-attachments/assets/dbbd2dc1-2590-49bf-9b10-e3de70beae77)
 
 ![Step 1](./POD.png) | ![Steep 2](./GeminiForge.png) | ![Step 3](./Interview.png)
 :---:|:---:|:---:
