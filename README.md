@@ -16,7 +16,7 @@
 
 ### From Idea to Production in 5 Steps GeminiForge
 
-![Step 1](./GeminiForge.png) | ![Steep 2](./POD.png) | ![Step 3](./Interview.png)
+![Step 1](./Gemini.png) | ![Steep 2](./POD.png) | ![Step 3](./Interview.png)
 :---:|:---:|:---:
 **GeminiForge** | **POD microservice** | **LLM-based InterviewPrep**
 
