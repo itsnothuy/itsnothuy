@@ -6,15 +6,7 @@
 # 💫 About Me:
  CS and Math majors at DePauw University<br>🌍 I'm based in Indiana, USA<br>🤝 I'm open to collaborating on intersting projects<br>
 # What I have done recently:
-- GeminiForge:
-- Interview Prep:
-- Proof of Delivery Quality Platform:
-- Kontask:
-- MusicFinder:
-
 <div align="center">
-
-### From Idea to Production in 5 Steps GeminiForge
 
 ![Step 1](./Gemini.png) | ![Steep 2](./POD.png) | ![Step 3](./Interview.png)
 :---:|:---:|:---:
