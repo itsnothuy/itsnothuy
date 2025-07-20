@@ -20,7 +20,7 @@
 :---:|:---:|:---:
 **GeminiForge** | **POD microservice** | **LLM-based InterviewPrep**
 
-![Step 4](./Kontask.png) | ![MusicFinder](https://github.com/user-attachments/assets/dbbd2dc1-2590-49bf-9b10-e3de70beae77)
+![Step 4](./Kontask.png) | <img src="https://github.com/user-attachments/assets/dbbd2dc1-2590-49bf-9b10-e3de70beae77" />
 :---:|:---:
 **Kontask** | **MusicFinder**
 
