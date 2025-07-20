@@ -14,16 +14,15 @@
 
 <div align="center">
 
-### From Idea to Production in 5 Steps
-![St![MusicFinder](https://github.com/user-attachments/assets/dbbd2dc1-2590-49bf-9b10-e3de70beae77)
+### From Idea to Production in 5 Steps GeminiForge
 
-![Step 1](./POD.png) | ![Steep 2](./GeminiForge.png) | ![Step 3](./Interview.png)
+![Step 1](./GeminiForge.png) | ![Steep 2](./POD.png) | ![Step 3](./Interview.png)
 :---:|:---:|:---:
-**Requirements Analysis** | **Architecture Design** | **Code Generation**
+**GeminiForge** | **POD microservice** | **LLM-based InterviewPrep**
 
-![Step 4](./Kontask.png) | (![St![MusicFinder](https://github.com/user-attachments/assets/dbbd2dc1-2590-49bf-9b10-e3de70beae77))
+![Step 4](./Kontask.png) | (![MusicFinder](https://github.com/user-attachments/assets/dbbd2dc1-2590-49bf-9b10-e3de70beae77))
 :---:|:---:
-**Testing & Review** | **Deployment Setup**
+**Kontask** | **MusicFinder**
 
 
 ## 🌐 Socials:
