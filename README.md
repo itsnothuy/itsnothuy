@@ -16,7 +16,7 @@
 
 ### From Idea to Production in 5 Steps
 
-![Step 1](./POD.png) | ![Step 2](./GeminiForge.png) | ![Step 3](./InterviewPrep.png)
+![Step 1](./POD.png) | ![Step 2](./GeminiForge.png) | ![Step 3](./Interview.png)
 :---:|:---:|:---:
 **Requirements Analysis** | **Architecture Design** | **Code Generation**
 
