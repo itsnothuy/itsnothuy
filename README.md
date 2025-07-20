@@ -15,7 +15,6 @@
 <div align="center">
 
 ### From Idea to Production in 5 Steps GeminiForge
-<img src="https://github.com/user-attachments/assets/dbbd2dc1-2590-49bf-9b10-e3de70beae77" />
 
 ![Step 1](./GeminiForge.png) | ![Steep 2](./POD.png) | ![Step 3](./Interview.png)
 :---:|:---:|:---:
@@ -23,7 +22,7 @@
 
 ![Step 4](./Kontask.png) | <img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" width="450"/>
 :---:|:---:
-**Kontask** | **MusicFinder**
+**Kontask** | **AI MusicFinder**
 
 
 ## 🌐 Socials:
