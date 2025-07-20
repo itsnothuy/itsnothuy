@@ -16,11 +16,11 @@
 
 ### From Idea to Production in 5 Steps
 
-![Step 1](./POD.png) | ![Step 2](./GeminiForge.png) | ![Step 3](./images/stage3.png)
+![Step 1](./POD.png) | ![Step 2](./GeminiForge.png) | ![Step 3](./InterviewPrep.png)
 :---:|:---:|:---:
 **Requirements Analysis** | **Architecture Design** | **Code Generation**
 
-![Step 4](./images/stage4.png) | ![Step 5](./images/stage5.png)
+![Step 4](./Kontask.png) | ![Step 5](./MusicFinder.png)
 :---:|:---:
 **Testing & Review** | **Deployment Setup**
 
