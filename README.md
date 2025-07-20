@@ -21,7 +21,7 @@
 :---:|:---:|:---:
 **GeminiForge** | **POD microservice** | **LLM-based InterviewPrep**
 
-![Step 4](./Kontask.png) | html\n<img src="https://private-user-images.githubusercontent.com/158990013/468332142-dbbd2dc1-2590-49bf-9b10-e3de70beae77.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5NzY3ODMsIm5iZiI6MTc1Mjk3NjQ4MywicGF0aCI6Ii8xNTg5OTAwMTMvNDY4MzMyMTQyLWRiYmQyZGMxLTI1OTAtNDliZi05YjEwLWUzZGU3MGJlYWU3Ny5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMFQwMTU0NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZThmZjdjZWRhZTdhM2QxZDIwMjAzMmJmYWZkNjZkMWNiNDkxOGI5MGQ3ZThjZWY3NGM3MTM4MzM1MWRiZjI4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TtWwp5F_-r66d0ADAppOHPh-3C4c5yXe43Lb7tWvPH4)" width="600"/>\n
+![Step 4](./Kontask.png) | html\n<img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" width="600"/>\n
 :---:|:---:
 **Kontask** | **MusicFinder**
 
