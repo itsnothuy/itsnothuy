@@ -69,6 +69,21 @@
 
 </div>
 
+<div align="center">
+
+<img src="./Iris.png" alt="Android Frontier LLM" height="160"> | <img src="./InstaSave.png" alt="InstaSave" height="160"> | <img src="./PhishIcon.png" alt="Phish Triage" height="160">
+:---:|:---:|:---:
+**Android Frontier LLM** | **InstaSave** | **Phish Triage**
+
+<img src="./Gemini.png" alt="GeminiForge" height="160"> | <img src="./POD.png" alt="POD microservice" height="160"> | <img src="./Interview.png" alt="LLM-based InterviewPrep" height="160">
+:---:|:---:|:---:
+**GeminiForge** | **POD microservice** | **LLM-based InterviewPrep**
+
+<img src="./Kontask.png" alt="Kontask" height="160"> | <img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" alt="AI MusicFinder" height="160">
+:---:|:---:
+**Kontask** | **AI MusicFinder**
+
+</div>
 
 
 ## 🌐 Socials:
