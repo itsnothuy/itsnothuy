@@ -20,6 +20,7 @@
 :---:|:---:
 **Kontask** | **AI MusicFinder**
 
+</div>
 
 
 <!-- What I have done recently -->
