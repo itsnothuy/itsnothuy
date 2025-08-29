@@ -134,6 +134,56 @@
 </div>
 
 
+
+<!-- What I have done recently (all images 160x160) -->
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Iris.png" alt="Android Frontier LLM" width="160" height="160"><br/>
+      <b>Android Frontier LLM</b>
+    </td>
+    <td align="center">
+      <img src="./InstaSave.png" alt="InstaSave" width="160" height="160"><br/>
+      <b>InstaSave</b>
+    </td>
+    <td align="center">
+      <img src="./PhishIcon.png" alt="Phish Triage" width="160" height="160"><br/>
+      <b>Phish Triage</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./Gemini.png" alt="GeminiForge" width="160" height="160"><br/>
+      <b>GeminiForge</b>
+    </td>
+    <td align="center">
+      <img src="./POD.png" alt="POD microservice" width="160" height="160"><br/>
+      <b>POD microservice</b>
+    </td>
+    <td align="center">
+      <img src="./Interview.png" alt="LLM-based InterviewPrep" width="160" height="160"><br/>
+      <b>LLM-based InterviewPrep</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./Kontask.png" alt="Kontask" width="160" height="160"><br/>
+      <b>Kontask</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" alt="AI MusicFinder" width="160" height="160"><br/>
+      <b>AI MusicFinder</b>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+</div>
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tnqh.1505) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huytrngqu@gmail.com) 
 [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@huytrngqu)
