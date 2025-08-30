@@ -184,6 +184,23 @@
 </div>
 
 
+<div align="center">
+
+<img src="./Iris.png" alt="Android Frontier LLM" width="160" height="160"> | <img src="./InstaSave.png" alt="InstaSave" width="160" height="160"> | <img src="./PhishIcon.png" alt="Phish Triage" width="160" height="160">
+:---:|:---:|:---:
+**Android Frontier LLM** | **InstaSave** | **Phish Triage**
+
+<img src="./Gemini.png" alt="GeminiForge" width="160" height="160"> | <img src="./POD.png" alt="POD microservice" width="160" height="160"> | <img src="./Interview.png" alt="LLM-based InterviewPrep" width="160" height="160">
+:---:|:---:|:---:
+**GeminiForge** | **POD microservice** | **LLM-based InterviewPrep**
+
+<img src="./Kontask.png" alt="Kontask" width="160" height="160"> | <img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" alt="AI MusicFinder" width="160" height="160">
+:---:|:---:
+**Kontask** | **AI MusicFinder**
+
+</div>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tnqh.1505) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huytrngqu@gmail.com) 
