@@ -6,6 +6,8 @@
 # 💫 About Me:
  CS and Math majors at DePauw University<br>🌍 I'm based in Indiana, USA<br>🤝 I'm open to collaborating on intersting projects<br>
 # What I have done recently:
+
+<!--
 <div align="center">
 
 ![Step 1](./Iris.png) | ![Steep 2](./InstaSave.png) | ![Step 3](./PhishIcon.png)
@@ -21,6 +23,8 @@
 **Kontask** | **AI MusicFinder**
 
 </div>
+-->
+
 
 
 <!-- What I have done recently -->
@@ -116,7 +120,7 @@
 
 </div>
 
-
+<!--
 <div align="center">
 
 <img src="./Iris.png" alt="Android Frontier LLM" width="160" height="160"> | <img src="./InstaSave.png" alt="InstaSave" width="160" height="160"> | <img src="./PhishIcon.png" alt="Phish Triage" width="160" height="160">
@@ -132,8 +136,7 @@
 **Kontask** | **AI MusicFinder**
 
 </div>
-
-
+-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tnqh.1505) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huytrngqu@gmail.com) 
