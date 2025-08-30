@@ -24,8 +24,8 @@
 
 </div>
 -->
-
-
+<!--
+-->
 
 <!-- What I have done recently -->
 <div align="center">
@@ -72,8 +72,10 @@
   </tr>
 </table>
 
-
+<!-- -->
 <!-- What I have done recently (all images 160x160) -->
+
+<!--
 <div align="center">
 
 <table>
@@ -119,6 +121,8 @@
 </table>
 
 </div>
+-->
+
 
 <!--
 <div align="center">
