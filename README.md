@@ -65,18 +65,14 @@
       <b>Kontask (McDermond Pitch Competition) </b>
     </td>
      <td align="center">
-      <img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" alt="AI MusicFinder" height="160"><br/>
+      <img src="https://raw.githubusercontent.com/itsnothuy/itsnothuy/main/MusicFinder.gif" alt="AI MusicFinder" height="160"><br/>
       <b>AI MusicFinder</b>
     </td> 
   </tr>
 </table>
 
-![AI MusicFinder](https://i.imgur.com/Cw6Dxgv.gif)
-
-**AI MusicFinder**
-
-
-<!-- -->
+</div>
+<!---->
 <!-- What I have done recently (all images 160x160) -->
 
 <!--
