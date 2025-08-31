@@ -68,6 +68,7 @@
       <img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" alt="AI MusicFinder" height="160"><br/>
       <b>AI MusicFinder</b>
     </td> -->
+      ![AI MusicFinder](https://i.imgur.com/Cw6Dxgv.gif
     <td align="center">
       <img src="https://i.imgur.com/Cw6Dxgv.gif" alt="AI MusicFinder" height="160"><br/>
       <b>AI MusicFinder</b>
