@@ -31,7 +31,7 @@
 <div align="center">
 
 <table>
-  <tr>
+<!--   <tr>
     <td align="center">
       <img src="./Iris.png" alt="Android Frontier LLM" height="160"><br/>
       <b>Android Frontier LLM</b>
@@ -63,7 +63,7 @@
     <td align="center">
       <img src="./Kontask.png" alt="Kontask" height="160"><br/>
       <b>Kontask (McDermond Pitch Competition) </b>
-    </td>
+    </td> -->
      <td align="center">
       <img src="https://raw.githubusercontent.com/itsnothuy/itsnothuy/main/MusicFinder.gif" alt="AI MusicFinder" height="160"><br/>
       <b>AI MusicFinder</b>
