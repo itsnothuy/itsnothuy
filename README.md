@@ -64,8 +64,12 @@
       <img src="./Kontask.png" alt="Kontask" height="160"><br/>
       <b>Kontask (McDermond Pitch Competition) </b>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" alt="AI MusicFinder" height="160"><br/>
+      <b>AI MusicFinder</b>
+    </td> -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/itsnothuy/itsnothuy/main/MusicFinder.gif" alt="AI MusicFinder" height="160"><br/>
       <b>AI MusicFinder</b>
     </td>
     <td></td> <!-- empty to keep the 3-column grid aligned -->
