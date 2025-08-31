@@ -10,7 +10,7 @@
 <!--
 <div align="center">
 
-![Step 1](./Iris.png) | ![Steep 2](./InstaSave.png) | ![Step 3](./PhishIcon.png)
+![Step 1](./Iris.png) | ![Steep 2](./InstaSave.pngg) | ![Step 3](./PhishIcon.png)
 :---:|:---:|:---:
 **Android Frontier LLM** | **InstaSave** | **Phish Triage** |
 
