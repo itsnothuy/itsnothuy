@@ -52,7 +52,7 @@
       <b>GeminiForge</b>
     </td>
     <td align="center">
-      <img src="./Gemini.png" alt="POD microservice" height="160"><br/>
+      <img src="./POD.png" alt="POD" height="160"><br/>
       <b>POD microservice</b>
     </td>
     <td align="center">
