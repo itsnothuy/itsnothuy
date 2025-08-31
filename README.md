@@ -56,13 +56,13 @@
     </td>
     <td align="center">
       <img src="./Interview.png" alt="LLM-based InterviewPrep" height="160"><br/>
-      <b>LLM-based InterviewPrep</b>
+      <b>InterviewPrep (Gemini AI Hackathon)</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./Kontask.png" alt="Kontask" height="160"><br/>
-      <b>Kontask</b>
+      <b>Kontask (McDermond Pitch Competition) </b>
     </td>
     <td align="center">
       <img src="https://github.com/itsnothuy/itsnothuy/blob/main/MusicFinder.gif?raw=true" alt="AI MusicFinder" height="160"><br/>
