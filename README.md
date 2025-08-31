@@ -69,7 +69,7 @@
       <b>AI MusicFinder</b>
     </td> -->
     <td align="center">
-      <img src="https://i.imgur.com/Cw6Dxgv.mp4" alt="AI MusicFinder" height="160"><br/>
+      <img src="https://i.imgur.com/Cw6Dxgv.gif" alt="AI MusicFinder" height="160"><br/>
       <b>AI MusicFinder</b>
     </td>
     <td></td> <!-- empty to keep the 3-column grid aligned -->
