@@ -38,7 +38,7 @@
       <b>Android Frontier LLM</b>
     </td>
     <td align="center">
-      <img src="./Doorbell.png" alt="Doorbell" height="160"><br/>
+      <img src="./Doorbell.gif" alt="Doorbell" height="160"><br/>
       <b>Doorbell + Face Recognition</b>
     </td>
     <td align="center">
