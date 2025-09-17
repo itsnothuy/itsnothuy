@@ -39,7 +39,7 @@
     </td>
     <td align="center">
       <img src="./Doorbell.png" alt="Doorbell" height="160"><br/>
-      <b>Doorbell + Face Recognition Sys</b>
+      <b>Doorbell + Face Recognition</b>
     </td>
     <td align="center">
       <img src="./PhishIcon.png" alt="Phish Triage" height="160"><br/>
