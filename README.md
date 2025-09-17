@@ -38,8 +38,8 @@
       <b>Android Frontier LLM</b>
     </td>
     <td align="center">
-      <img src="./InstaSave.png" alt="InstaSave" height="160"><br/>
-      <b>InstaSave</b>
+      <img src="./Doorbell.png" alt="Doorbell" height="160"><br/>
+      <b>Doorbell + Face Recognition Sys</b>
     </td>
     <td align="center">
       <img src="./PhishIcon.png" alt="Phish Triage" height="160"><br/>
@@ -69,6 +69,10 @@
       <img src="https://raw.githubusercontent.com/itsnothuy/itsnothuy/main/MusicFinder.gif" alt="AI MusicFinder" height="160"><br/>
       <b>AI MusicFinder</b>
     </td> 
+    <td align="center">
+      <img src="./InstaSave.png" alt="InstaSave" height="160"><br/>
+      <b>InstaSave</b>
+    </td>
   </tr>
 </table>
 
