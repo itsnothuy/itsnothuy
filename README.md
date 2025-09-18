@@ -56,7 +56,7 @@
       <b>POD microservice</b>
     </td>
     <td align="center">
-      <img src="./Interview.png" alt="LLM-based InterviewPrep" height="160"><br/>
+      <img src="./InterviewPrep.gif" alt="LLM-based InterviewPrep" height="160"><br/>
       <b>InterviewPrep (Gemini AI Hackathon)</b>
     </td>
   </tr>
