@@ -42,8 +42,8 @@
       <b>Doorbell + Face Recognition</b>
     </td>
     <td align="center">
-      <img src="./PhishIcon.png" alt="Phish Triage" height="160"><br/>
-      <b>Phish Triage</b>
+      <img src="./GitVisualizer.png" alt="Git Visualizer" height="160"><br/>
+      <b>Git Visualizer</b>
     </td>
   </tr>
   <tr>
