@@ -42,7 +42,7 @@
       <b>Doorbell + Face Recognition</b>
     </td>
     <td align="center">
-      <img src="./GitVisualizer.png" alt="Git Visualizer" height="160"><br/>
+      <img src="./GitVisualizer.gif" alt="Git Visualizer" height="160"><br/>
       <b>Git Visualizer</b>
     </td>
   </tr>
