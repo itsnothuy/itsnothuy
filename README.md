@@ -39,7 +39,7 @@
     </td>
     <td align="center">
       <img src="./Doorbell.gif" alt="Doorbell" height="160"><br/>
-      <b>Doorbell + Face Recognition</b>
+      <b>Doorbell+Face Recognition</b>
     </td>
     <td align="center">
       <img src="./GitVisualizer.gif" alt="Git Visualizer" height="160"><br/>
