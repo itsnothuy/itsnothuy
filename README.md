@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./InterviewPrep.gif" alt="LLM-based InterviewPrep" height="160"><br/>
+      <img src="./Interviewprep.gif" alt="LLM-based InterviewPrep" height="160"><br/>
       <b>InterviewPrep (Gemini AI Hackathon)</b>
     </td>
     <td align="center">
